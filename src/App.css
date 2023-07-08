@@ -1,0 +1,22 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.res-text {
+  font-weight: 500;
+}
+
+.crypto-card {
+  min-width: 400px;
+  background-color: #ccc;
+}
+
+.select-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+}
